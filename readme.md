@@ -3,6 +3,10 @@
 
 ![amp1_GIF](https://github.com/user-attachments/assets/a992af7f-3eba-45ef-8b38-71c8f4c3a7fe)
 
+## Author
+
+Developed and maintained by Ankit Barad [(https://github.com/yourusername)](https://github.com/ankitbarad123)
+
 
 🔦We have developed application notes for our products on different topics such as:-
 
