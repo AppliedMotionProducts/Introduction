@@ -6,7 +6,7 @@
 ## Author
 
 Developed and maintained by Ankit Barad https://github.com/ankitbarad123
-
+ 
 
 🔦We have developed application notes for our products on different topics such as:-
 
