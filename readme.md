@@ -23,6 +23,8 @@ Application notes and example code across the platforms our customers use most:
 <p>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
   &nbsp;&nbsp;
+
+  
   <a href="https://www.codesys.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Codesys_Logo.svg" alt="CODESYS" height="42" /></a>
 </p>
 
