@@ -21,7 +21,9 @@ Application notes and example code across the platforms our customers use most:
 | ✨ **Q program** | Q program examples for our standalone controllers |
 
 <p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.codesys.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Codesys_Logo.svg" alt="CODESYS" height="42" /></a>
 </p>
 
 ![PLC](https://github.com/user-attachments/assets/8522dd9a-73b3-488b-bdf7-83e3a93d75fb)
